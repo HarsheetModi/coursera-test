@@ -1,19 +1,22 @@
 * {
-	background-color: rgb(207 208 216);
 	box-sizing: border-box;
 	margin:0;
 	padding:0;
+	font-family: 
+
 }
 h1 {
 	margin: 40px;
+	margin-bottom: 50px;
 	text-align:center;
 
 }
+
 div.menu {
 	float: left;
-	width:30%;
-	background: red;
-	margin:10px;
+	width:29%;
+	background-color: red;
+	margin:15px;
 	border: 2px solid black;
 	
 
@@ -21,7 +24,8 @@ div.menu {
 
 section {
 	position: relative;
-	border: 2px solid black;
+	border-left: 2px solid black;
+	border-bottom: 2px solid black;
 	padding:10px;
 	float: right;
 	margin:0px;
@@ -32,24 +36,6 @@ p {
 	position: relative;
 	margin-bottom: 20px;
 	padding:10px;
-	background-color: green;
 	
 	clear: both;
-}
-.dish {
-	
-}
-
-#paneer {
-	margin-left: auto;
-	
-}
-
-#malai {
-	
-}
-
-#dal {
-
-	
 }
