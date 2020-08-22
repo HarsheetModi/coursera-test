@@ -39,3 +39,14 @@ p {
 	
 	clear: both;
 }
+#dish1 {
+	background-color: magenta;
+}
+
+#dish2 {
+	background-color: yellow;
+}
+
+#dish3 {
+	background-color: orange;
+}
