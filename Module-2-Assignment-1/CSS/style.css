@@ -1,3 +1,46 @@
 * {
-	border-b
+	background-color: rgb(207 208 216);
+	box-sizing: border-box;
+}
+h1 {
+	margin-bottom: 40px;
+	text-align:center;
+}
+div {
+	
+}
+
+section {
+	position: relative;
+	border: 1px solid black;
+	margin-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	padding:10px;
+
+}
+p {
+	position: relative;
+	border: 1px solid black;
+	margin-bottom: 20px;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	padding:10px;
+
+}
+.dish {
+	float:right;
+}
+
+#paneer {
+	
+}
+
+#malai {
+	
+}
+
+#dal {
+	
 }
