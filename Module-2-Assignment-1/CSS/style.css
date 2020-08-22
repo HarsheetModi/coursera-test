@@ -1,39 +1,47 @@
 * {
 	background-color: rgb(207 208 216);
 	box-sizing: border-box;
+	margin:0;
+	padding:0;
 }
 h1 {
-	margin-bottom: 40px;
+	margin: 40px;
 	text-align:center;
+
 }
-div {
+div.menu {
+	float: left;
+	width:30%;
+	background: red;
+	margin:10px;
+	border: 2px solid black;
 	
+
 }
 
 section {
 	position: relative;
-	border: 1px solid black;
-	margin-bottom: 20px;
-	margin-right: auto;
-	margin-left: auto;
+	border: 2px solid black;
 	padding:10px;
+	float: right;
+	margin:0px;
+	
 
 }
 p {
 	position: relative;
-	border: 1px solid black;
 	margin-bottom: 20px;
-	width: 90%;
-	margin-right: auto;
-	margin-left: auto;
 	padding:10px;
-
+	background-color: green;
+	
+	clear: both;
 }
 .dish {
-	float:right;
+	
 }
 
 #paneer {
+	margin-left: auto;
 	
 }
 
@@ -42,5 +50,6 @@ p {
 }
 
 #dal {
+
 	
 }
